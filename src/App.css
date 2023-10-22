@@ -3,6 +3,22 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+
+
+  /* Colors palette */
+  --astronaut-50: #eff7ff;
+  --astronaut-100: #dbecfe;
+  --astronaut-200: #bfdefe;
+  --astronaut-300: #92cbfe;
+  --astronaut-400: #5fadfb;
+  --astronaut-500: #3a8cf7;
+  --astronaut-600: #246eec;
+  --astronaut-700: #1c57d9;
+  --astronaut-800: #1d48b0;
+  --astronaut-900: #193676;
+  --astronaut-950: #172854;
+
+
 }
 
 .logo {
@@ -12,10 +28,10 @@
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #1c57d9);
 }
 .logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+  filter: drop-shadow(0 0 2em #92cbfe);
 }
 
 @keyframes logo-spin {

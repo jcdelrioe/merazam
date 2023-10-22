@@ -10,6 +10,8 @@ function App() {
         <a href="#" target="_blank">
           <img src={mzLogo} className="logo react" alt="Merazam logo" />
         </a>
+        <h3>La alianza perfecta para la consolidación de
+grandes proyectos de ingeniería con alta calidad</h3>
       </div>
 
 
