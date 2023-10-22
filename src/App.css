@@ -34,6 +34,16 @@
   filter: drop-shadow(0 0 2em #92cbfe);
 }
 
+.containerLogo{
+  width: 70vw;
+  height: auto;
+}
+
+.logoLema{
+  width: 100%;
+  color: var(--astronaut-400);
+}
+
 @keyframes logo-spin {
   from {
     transform: rotateY(0deg);
