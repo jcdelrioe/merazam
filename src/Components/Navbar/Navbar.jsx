@@ -12,7 +12,7 @@ export const Navbar = () => {
       </div>
       <div className={`nav_items ${isOpen && "open"}`}>
         <a href="#INICIO" onClick={() => setIsOpen(!isOpen)}>INICIO</a>
-        <a href="#">MISION</a>
+        <a href="#MISION" onClick={() => setIsOpen(!isOpen)}>MISION</a>
         <a href="#">VISION</a>
         <a href="#">TRAYECTORIA</a>
       </div>
