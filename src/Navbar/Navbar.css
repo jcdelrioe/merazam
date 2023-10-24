@@ -32,6 +32,9 @@
     background: orange;
     height: 60px;
     width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
   .nav_items {
     position: absolute;
