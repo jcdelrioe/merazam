@@ -1,22 +1,24 @@
-import mzLogo from './assets/Logo MZ Up-Dw Tiny.png'
-import './App.css'
+import "./App.css";
+import { Navbar } from "./Navbar/Navbar";
 
 function App() {
-
   return (
     <>
-      <div className="containerLogo">
+      {/* <div className="App"> */}
+        <Navbar/>
 
-        <a href="#" target="_blank">
-          <img src={mzLogo} className="logo react" alt="Merazam logo" />
-        </a>
-        <h3 className="logoLema">La alianza perfecta para la consolidación de
-grandes proyectos de ingeniería con alta calidad</h3>
-      </div>
-
-
+        {/* <div className="containerLogo">
+          <a href="#" target="_blank">
+            <img src={mzLogo} className="logo react" alt="Merazam logo" />
+          </a>
+          <h3 className="logoLema">
+            La alianza perfecta para la consolidación de grandes proyectos de
+            ingeniería con alta calidad
+          </h3>
+        </div> */}
+      {/* </div> */}
     </>
-  )
+  );
 }
 
-export default App
+export default App;

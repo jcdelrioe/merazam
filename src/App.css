@@ -1,4 +1,4 @@
-#root {
+/* :root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -6,7 +6,7 @@
 
 
   /* Colors palette */
-  --astronaut-50: #eff7ff;
+  /* --astronaut-50: #eff7ff;
   --astronaut-100: #dbecfe;
   --astronaut-200: #bfdefe;
   --astronaut-300: #92cbfe;
@@ -16,12 +16,12 @@
   --astronaut-700: #1c57d9;
   --astronaut-800: #1d48b0;
   --astronaut-900: #193676;
-  --astronaut-950: #172854;
+  --astronaut-950: #172854; */
 
 
-}
+/* } */ */
 
-.logo {
+/* .logo {
   height: 12em;
   padding: 1.5em;
   will-change: filter;
@@ -57,6 +57,4 @@
   a:nth-of-type(1) .logo {
     animation: logo-spin infinite 8s linear;
   }
-}
-
-
+} */
