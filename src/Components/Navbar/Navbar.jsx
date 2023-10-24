@@ -11,7 +11,7 @@ export const Navbar = () => {
         <img className='mzLogo' src={mzLogo} alt="Logo MERAZAM" />
       </div>
       <div className={`nav_items ${isOpen && "open"}`}>
-        <a href="#">INICIO</a>
+        <a href="#INICIO" onClick={() => setIsOpen(!isOpen)}>INICIO</a>
         <a href="#">MISION</a>
         <a href="#">VISION</a>
         <a href="#">TRAYECTORIA</a>
