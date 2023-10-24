@@ -1,6 +1,6 @@
 .navbar {
   background: orange;
-  height: 80px;
+  height: 60px;
   width: 100vw;
   display: flex;
   justify-content: space-between;
@@ -28,6 +28,9 @@
 }
 
 @media (max-width: 768px) {
+  .navbar {
+    background: orange;
+  }
   .nav_items {
     position: absolute;
     top: 60px;
