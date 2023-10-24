@@ -1,0 +1,15 @@
+.headerContainer{
+  background: var(--header);
+  height: 30px;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .headerContainer{
+    font-size: 12px;
+
+  }
+}

@@ -1,3 +1,38 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: dark light;
+  color: var(--letra);
+  background-color: var(--fondo);
+
+  --azure-radiance-50: #eff8ff;
+  /* --letra: #daeeff; */
+  --letra: #162b55;
+  --azure-radiance-200: #bde3ff;
+  --azure-radiance-300: #90d2ff;
+  --azure-radiance-400: #5cb8fe;
+  --header: #3798fa;
+  --azure-radiance-600: #247cf0;
+  --azure-radiance-700: #1963dc;
+  --azure-radiance-800: #1b50b2;
+  --azure-radiance-900: #1b468d;
+  /* --fondo: #162b55; */
+  --fondo: #daeeff;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+
+
+*, ::before, ::after{
+  box-sizing: border-box;
+}
 
 body {
   margin: 0;
@@ -5,4 +40,5 @@ body {
   /* min-width: 320px;
   min-height: 100vh; */
 }
+
 

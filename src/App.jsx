@@ -1,11 +1,13 @@
 import "./App.css";
-import { Navbar } from "./Navbar/Navbar";
+import { Header } from "./Components/Header/Header";
+import { Navbar } from "./Components/Navbar/Navbar";
 
 function App() {
   return (
     <>
       {/* <div className="App"> */}
-        <Navbar/>
+      <Header/>
+      <Navbar/>
 
         {/* <div className="containerLogo">
           <a href="#" target="_blank">
