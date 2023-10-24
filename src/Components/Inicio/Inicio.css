@@ -22,10 +22,11 @@
   .containerLogo{
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
-    width: 100vw;
-    height: auto;
+    /* width: 100vw; */
+    width: auto;
+    height: 100vh;
   }
 
   .logo{
@@ -35,9 +36,9 @@
   
   .logoLema{
     width: 80%;
-    font-size: 30px;
+    font-size: 1.8em;
     text-align: center;
-    color: orange;
+    color: var(--letra);
   }
   
   @keyframes logo-spin {
