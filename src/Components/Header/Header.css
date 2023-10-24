@@ -15,4 +15,7 @@
     justify-content: space-between;
     align-items: center;
   }
+  .headerData{
+    margin: 5px 10px;
+  }
 }
