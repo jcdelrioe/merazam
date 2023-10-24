@@ -1,5 +1,5 @@
 import {useState} from 'react'
-import mzLogo from "../../assets/Logo MZ Up-Dw Tiny.png";
+import mzLogo from "../../assets/Logo MZUp-DwTiny.png";
 
 import './Navbar.css'
 
