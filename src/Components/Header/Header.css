@@ -1,4 +1,4 @@
-.headerContainer{
+.headerContainer {
   background: var(--header);
   height: 30px;
   width: 100vw;
@@ -8,8 +8,11 @@
 }
 
 @media (max-width: 768px) {
-  .headerContainer{
+  .headerContainer {
+    background: var(--header);
     font-size: 12px;
-
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
   }
 }
