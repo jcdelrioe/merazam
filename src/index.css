@@ -1,3 +1,4 @@
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -5,6 +6,11 @@
 
   color-scheme: dark light;
   color: var(--letra);
+  height: 100vh;
+  background-size: 100vh;
+  background-repeat: no-repeat;
+  /* width: 100%;
+  height: 100%; */
   background-color: var(--fondo);
 
   --azure-radiance-50: #eff8ff;
@@ -37,8 +43,12 @@
 body {
   margin: 0;
   padding: 0;
-  /* min-width: 320px;
-  min-height: 100vh; */
+  background-image: url('./assets/RM4.png');
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: cover;
+
 }
 
 
