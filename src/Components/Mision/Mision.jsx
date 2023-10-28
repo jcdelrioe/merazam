@@ -15,10 +15,7 @@ export const Mision = () => {
       <p className="logoLema">
         Aportar soluciones innovadoras en construcción, que contribuyan al desarrollo sostenible de nuestros clientes y del país.
       </p>
-      <h4 className="logoLema">
-        La alianza perfecta para la consolidación de grandes proyectos de
-        ingeniería con alta calidad
-      </h4>
+
     </section>
   );
 };

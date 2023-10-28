@@ -1,5 +1,4 @@
 import "./App.css";
-import picFondo from './assets/RM4.png'
 import { Header } from "./Components/Header/Header";
 import { Navbar } from "./Components/Navbar/Navbar";
 import { Inicio } from "./Components/Inicio/Inicio";
@@ -11,7 +10,7 @@ function App() {
 
       <Header/>
       <Navbar/>
-      {/* <Inicio/> */}
+      <Inicio/>
       <Mision/>
 
 
