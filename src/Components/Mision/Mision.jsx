@@ -1,5 +1,5 @@
 import "./Mision.css";
-import merazamLogo from "../../assets/Logo MZUp-DwTiny.png";
+import merazamLogo from "../../assets/Logo_MZUp-DwTiny.png";
 
 export const Mision = () => {
   return (
