@@ -2,6 +2,9 @@
   background: var(--fondo);
   height: 60px;
   width: 100vw;
+  position: fixed;
+  top: 30px;
+  left: 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
