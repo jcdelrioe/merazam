@@ -39,6 +39,10 @@
     font-size: 1.3em;
     text-align: center;
     color: var(--letra);
+    margin-top: 0;
+  }
+  .subTittle{
+    margin-bottom: 0;
   }
   
   @keyframes logo-spin {
