@@ -6,7 +6,7 @@ import pic04 from '../../assets/work/elec05.png'
 
 export const Trayectoria = () => {
   return (
-    <section className="containerLogo" id="TRAYECTORIA">
+    <section className="containerTrayectoria" id="TRAYECTORIA">
 
       <h3 className="subTittle">Trayectoria</h3>
       <div className="slider">

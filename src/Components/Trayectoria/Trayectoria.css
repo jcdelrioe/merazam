@@ -19,7 +19,7 @@
     margin: 5px 10px;
   } */
 
-  .containerLogo{
+  .containerTrayectoria{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
@@ -30,7 +30,7 @@
 
   .slider{
     aspect-ratio: 10/16;
-    width: calc(85vw);
+    width: calc(80vw);
     position: relative;
     display: flex;
     overflow: scroll;
