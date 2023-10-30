@@ -5,7 +5,11 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0s;
 }
+
 
 @media (max-width: 768px) {
   .headerContainer {
@@ -14,12 +18,15 @@
     top: 0;
     left: 0;
 
-    font-size: 14px;
+    font-size: 1.4rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
   }
-  .headerData{
-    margin: 5px 10px;
+  .headerPhone{
+    margin: 5px 0px 5px 10px;
+  }
+  .headerEmail{
+    margin: 5px 10px 5px 0px;
   }
 }
