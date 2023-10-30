@@ -30,7 +30,7 @@
 
   .slider{
     aspect-ratio: 10/16;
-    width: calc(80vw);
+    width: calc(80%);
     position: relative;
     display: flex;
     overflow: scroll;
