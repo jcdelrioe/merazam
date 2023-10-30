@@ -4,6 +4,7 @@ import { Navbar } from "./Components/Navbar/Navbar";
 import { Inicio } from "./Components/Inicio/Inicio";
 import { Mision } from "./Components/Mision/Mision";
 import { Trayectoria } from "./Components/Trayectoria/Trayectoria";
+import { Direccion } from "./Components/Direccion/Direccion";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <Inicio/>
       <Mision/>
       <Trayectoria/>
+      <Direccion/>
 
 
     </>
