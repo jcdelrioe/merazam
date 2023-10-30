@@ -4,6 +4,9 @@
   line-height: 1.5;
   font-weight: 400;
 
+  max-width: 1200px;
+
+
   color-scheme: dark light;
   color: var(--letra);
   height: 100vh;

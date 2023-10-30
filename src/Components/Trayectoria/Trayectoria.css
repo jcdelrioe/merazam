@@ -1,8 +1,6 @@
-/* .inicioContainer {
-  background: var(--header);
-  height: 30px;
-  width: 100vw;
+/* .containerTrayectoria {
   display: flex;
+  flex-direction: column;
   justify-content: space-between;
   align-items: center;
 } */
@@ -22,15 +20,15 @@
   .containerTrayectoria{
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    justify-content: space-evenly;
     align-items: center;
     height: calc(100vh - 90px);
-    width: auto;
+    /* width: auto; */
   }
 
   .slider{
-    aspect-ratio: 10/16;
-    width: calc(70%);
+    /* aspect-ratio: 10/16; */
+    width: 80%;
     position: relative;
     display: flex;
     overflow: scroll;
