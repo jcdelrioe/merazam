@@ -42,7 +42,7 @@
     width: 100%;
     left: 0;
     position: sticky;
-    object-fit: contain;
+    object-fit: cover;
     border-radius: 5px;
     scroll-snap-align: center;
   }
