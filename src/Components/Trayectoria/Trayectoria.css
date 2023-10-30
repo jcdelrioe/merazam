@@ -1,0 +1,51 @@
+/* .inicioContainer {
+  background: var(--header);
+  height: 30px;
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+} */
+
+@media (max-width: 768px) {
+  /* .inicioContainer {
+    background: var(--header);
+    font-size: 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .inicioData{
+    margin: 5px 10px;
+  } */
+
+  /* .containerLogo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    height: calc(100vh - 90px);
+    width: auto;
+  } */
+
+  .slider{
+    aspect-ratio: 10/16;
+    width: calc(100vw - 50px);
+    position: relative;
+    display: flex;
+    overflow: scroll;
+    scroll-snap-type: x mandatory;
+
+  }
+
+  .slider img{
+    width: 100%;
+    left: 0;
+    position: sticky;
+    object-fit: cover;
+    border-radius: 5px;
+    scroll-snap-align: center;
+  }
+
+
+}

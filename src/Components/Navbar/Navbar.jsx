@@ -12,9 +12,9 @@ export const Navbar = () => {
       </div>
       <div className={`nav_items ${isOpen && "open"}`}>
         <a href="#INICIO" onClick={() => setIsOpen(!isOpen)}>INICIO</a>
-        <a href="#MISION" onClick={() => setIsOpen(!isOpen)}>MISION</a>
-        <a href="#">VISION</a>
-        <a href="#">TRAYECTORIA</a>
+        <a href="#MISION" onClick={() => setIsOpen(!isOpen)}>VISION Y MISION</a>
+        <a href="#TRAYECTORIA" onClick={() => setIsOpen(!isOpen)}>TRAYECTORIA</a>
+        <a href="#DIRECCION" onClick={() => setIsOpen(!isOpen)}>DIRECCION</a>
       </div>
       <div className={`nav_toggle ${isOpen && "open"}`} onClick={() => setIsOpen(!isOpen)}>
         <span></span>
