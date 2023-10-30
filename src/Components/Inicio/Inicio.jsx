@@ -3,7 +3,7 @@ import merazamLogo from "../../assets//Logo_MZUp-DwTiny.png";
 
 export const Inicio = () => {
   return (
-    <section className="containerLogo" id="INICIO">
+    <section className="containerInicio" id="INICIO">
       <a href="#" target="_blank">
         <img src={merazamLogo} className="logo" alt="Merazam logo" />
       </a>
