@@ -22,7 +22,7 @@
   .containerTrayectoria{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     height: calc(100vh - 90px);
     width: auto;
