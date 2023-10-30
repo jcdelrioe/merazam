@@ -9,15 +9,12 @@ import { Direccion } from "./Components/Direccion/Direccion";
 function App() {
   return (
     <>
-
-      <Header/>
-      <Navbar/>
-      <Inicio/>
-      <Mision/>
-      <Trayectoria/>
-      <Direccion/>
-
-
+      <Header />
+      <Navbar />
+      <Inicio />
+      <Mision />
+      <Trayectoria />
+      <Direccion />
     </>
   );
 }

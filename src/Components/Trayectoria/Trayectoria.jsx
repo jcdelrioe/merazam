@@ -15,10 +15,7 @@ export const Trayectoria = () => {
         <img className="sliderImg" src={pic03} alt="" />
         <img className="sliderImg" src={pic04} alt="" />
 
-        {/* // <img src={pic01} alt="" />
-        // <img src={pic02} alt="" />
-        // <img src={pic03} alt="" />
-        // <img src={pic04} alt="" /> */}
+
       </div>
 
     </section>

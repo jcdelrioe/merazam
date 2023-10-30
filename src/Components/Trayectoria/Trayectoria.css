@@ -19,18 +19,18 @@
     margin: 5px 10px;
   } */
 
-  /* .containerLogo{
+  .containerLogo{
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
     height: calc(100vh - 90px);
     width: auto;
-  } */
+  }
 
   .slider{
     aspect-ratio: 10/16;
-    width: calc(100vw - 50px);
+    width: calc(85vw);
     position: relative;
     display: flex;
     overflow: scroll;

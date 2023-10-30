@@ -14,6 +14,11 @@ export const Direccion = () => {
       <hr />
       <h3 className="subTittle">email</h3>
       <p className="logoLema">merazamconstrucciones@gmail.com</p>
+      <hr />
+      <h3 className="subTittle">Empresas con las que hemos trabajado</h3>
+      <p className="logoLema">merazamconstrucciones@gmail.com</p>
+
+
     </section>
   );
 };
