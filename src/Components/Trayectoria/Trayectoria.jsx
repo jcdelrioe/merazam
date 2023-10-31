@@ -1,5 +1,4 @@
 import "./Trayectoria.css";
-import { Imagen } from "../Imagen/Imagen";
 import { Obras } from "../Obras/Obras";
 
 export const Trayectoria = () => {
@@ -11,7 +10,6 @@ export const Trayectoria = () => {
 
       <Obras />
 
-      <Imagen />
     </section>
   );
 };
