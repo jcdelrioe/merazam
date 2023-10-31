@@ -37,8 +37,7 @@ export const imgData = {
     },
     {
       id: 2,
-      project:
-        "Reubicacion de lineas y Sistema de bombas del area de soda",
+      project: "Reubicacion de lineas y Sistema de bombas del area de soda",
       type: "Mecanico",
       location: "Terminal Vopak",
       client: "VOPAK del Ecuador S. A.",
@@ -47,26 +46,21 @@ export const imgData = {
       images: [
         {
           src: "../src/assets/work/pag02/Vopak01.png",
-          description:
-            "Reubicacion de lineas",
+          description: "Reubicacion de lineas",
         },
         {
           src: "../src/assets/work/pag02/Vopak02.png",
-          description:
-            "Reubicacion de lineas",
+          description: "Reubicacion de lineas",
         },
         {
           src: "../src/assets/work/pag02/Pascuales03.png",
-          description:
-            "Reubicacion de bombas",
+          description: "Reubicacion de bombas",
         },
       ],
     },
   ],
 };
 
-
-// console.log(imgData.map(() => );
 function App() {
   return (
     <>
