@@ -4,7 +4,7 @@ export const Obras = () => {
   return (
     <div>
       {imgData.projects.map((project) => (
-        <p>{project.project.toUpperCase()}</p>
+        <p key={project.id}>{project.project.toUpperCase()}</p>
       ))}
     </div>
   );
