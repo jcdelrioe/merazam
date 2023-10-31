@@ -4,6 +4,7 @@ export const Imagen = () => {
       {/* {sourceImg.map((image) => (
         <img className="sliderImg" src={image} alt="" />
         ))} */}
+        Hola
     </div>
   );
 };
