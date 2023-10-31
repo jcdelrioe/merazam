@@ -13,8 +13,6 @@ export const Trayectoria = ({ id }) => {
       <h3 className="subTittle">Trayectoria</h3>
 
       <Imagen sourceImg={sourceImg} />
-
-
     </section>
   );
 };
