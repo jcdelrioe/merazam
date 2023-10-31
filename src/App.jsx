@@ -65,38 +65,6 @@ export const imgData = {
   ],
 };
 
-const imgData2 = {
-  "Machu Picchu": {
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Machu_Picchu_-_Peru_-_2016.jpg/1200px-Machu_Picchu_-_Peru_-_2016.jpg",
-    description: "Machu Picchu, Perú",
-    area: "Cuzco",
-    country: "Perú",
-  },
-  "Taj Mahal": {
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Taj_Mahal_2014.jpg/1200px-Taj_Mahal_2014.jpg",
-    description: "Taj Mahal, India",
-    area: "Agra",
-    country: "India",
-  },
-  "Cristo Redentor": {
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Cristo_Redentor_-_Rio_de_Janeiro_-_Brasil_-_2014.jpg/1200px-Cristo_Redentor_-_Rio_de_Janeiro_-_Brasil_-_2014.jpg",
-    description: "Cristo Redentor, Brasil",
-    area: "Río de Janeiro",
-    country: "Brasil",
-  },
-  "Gran Muralla China": {
-    src: "https/upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Great_Wall_of_China_-_2015.jpg/1200px-Great_Wall_of_China_-_2015.jpg",
-    description: "Gran Muralla China, China",
-    area: "Beijing",
-    country: "China",
-  },
-  "Torre Eiffel": {
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Eiffel_Tower_-_Paris_-_2015.jpg/1200px-Eiffel_Tower_-_Paris_-_2015.jpg",
-    description: "Torre Eiffel, Francia",
-    area: "París",
-    country: "Francia",
-  },
-};
 
 // console.log(imgData.map(() => );
 function App() {
