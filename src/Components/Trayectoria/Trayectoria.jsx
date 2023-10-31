@@ -1,5 +1,5 @@
 import "./Trayectoria.css";
-import { Imagen } from "../Imagen/imagen";
+import { Imagen } from "../Imagen/Imagen";
 import { Obras } from "../Obras/Obras";
 
 export const Trayectoria = () => {
