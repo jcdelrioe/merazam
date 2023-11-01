@@ -1,6 +1,5 @@
 
 export const Imagen = ({images}) => {
-  console.log(images);
 
   return (
     <div className="slider">
