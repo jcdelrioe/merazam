@@ -1,8 +1,12 @@
-export const Imagen = () => {
+
+export const Imagen = ({images}) => {
+  console.log(images);
+
   return (
     <div className="slider">
-
-        Hola
+      {images.map((image) => (
+        <img key={images.key} className="sliderImg" src={image.src} alt={image.description} />
+      ))}
     </div>
   );
 };
