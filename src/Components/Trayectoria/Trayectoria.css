@@ -29,6 +29,7 @@
   .containerTrayectoria p{
     width: 90vw;
     margin: 0 auto;
+    text-align: center;
   }
 
   .slider{
@@ -37,6 +38,7 @@
     height: auto;
     position: relative;
     display: flex;
+    left: calc(50% - 125px);
     overflow: scroll;
     scroll-snap-type: x mandatory;
 
@@ -44,6 +46,7 @@
 
   .slider img{
     width: 100%;
+    height: auto;
     left: 0;
     position: sticky;
     object-fit: cover;
