@@ -1,10 +1,11 @@
-import '../Trayectoria/Trayectoria.css'
-export const Imagen = ({images}) => {
-
+import "../Trayectoria/Trayectoria.css";
+export const Imagen = ({ images }) => {
   return (
     <div className="slider">
       {images.map((image) => (
-        <img key={images.key} className="sliderImg" src={image.src} alt="" />
+        <>
+          <img key={images.key} className="sliderImg" src={image.src} alt="" />
+        </>
       ))}
     </div>
   );
