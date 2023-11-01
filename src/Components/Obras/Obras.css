@@ -17,14 +17,13 @@
   .containerObras{
     display: flex;
     flex-direction: column;
-    justify-content: space-evenly;
+    justify-content: flex-start;
     align-items: center;
     /* height: calc(100vh - 90px); */
     width: 90%;
   }
 
-  .slider{
-    /* aspect-ratio: 10/16; */
+  /* .slider{
     width: 80%;
     position: relative;
     display: flex;
@@ -40,7 +39,7 @@
     object-fit: cover;
     border-radius: 5px;
     scroll-snap-align: center;
-  }
+  } */
 
 
 }
