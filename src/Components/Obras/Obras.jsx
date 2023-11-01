@@ -1,3 +1,4 @@
+import '../Trayectoria/Trayectoria.css'
 import { imgData } from "../../Data";
 import { Imagen } from "../Imagen/Imagen";
 

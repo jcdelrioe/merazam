@@ -1,4 +1,4 @@
-
+import '../Trayectoria/Trayectoria.css'
 export const Imagen = ({images}) => {
 
   return (
