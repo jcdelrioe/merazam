@@ -1,4 +1,3 @@
-import "../Trayectoria/Trayectoria.css";
 export const Imagen = ({ images }) => {
   return (
     <div className="slider">

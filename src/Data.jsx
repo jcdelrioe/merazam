@@ -13,22 +13,22 @@ export const imgData = {
       images: [
         {
           key: "img58",
-          src: "../public/mantto01.png",
+          src: "../public/images/mantto01.png",
           description: "Montaje de Estructura metalica en galpon",
         },
         {
           key: "img59",
-          src: "../public/mantto02.png",
+          src: "../public/images/mantto02.png",
           description: "Descarga de estructura metalica",
         },
         {
           key: "img60",
-          src: "../public/mantto03.png",
+          src: "../public/images/mantto03.png",
           description: "Vista de estructura metalica montada",
         },
         {
           key: "img61",
-          src: "../public/mantto04.png",
+          src: "../public/images/mantto04.png",
           description: "Descarga de material para estructura",
         },
       ],
