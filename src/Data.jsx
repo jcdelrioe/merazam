@@ -1,11 +1,17 @@
+import mantto01 from "./assets/work/pag15/mantto01.png";
+import mantto02 from "./assets/work/pag15/mantto02.png";
+import mantto03 from "./assets/work/pag15/mantto03.png";
+import mantto04 from "./assets/work/pag15/mantto04.png";
+
 export const imgData = {
   projects: [
     {
       id: 10,
       project:
-        'Servicios miscelaneos de construccion y montaje de estructuras metalicas',
+        "Servicios miscelaneos de construccion y montaje de estructuras metalicas",
       type: "Mecanico",
-      location: "Proyecto construccion de planta de reciclaje de baterias - Chilca",
+      location:
+        "Proyecto construccion de planta de reciclaje de baterias - Chilca",
       country: "Peru",
       client: "MANTTO SAC",
       owner: "ETNA",
@@ -13,22 +19,22 @@ export const imgData = {
       images: [
         {
           key: "img58",
-          src: "../public/images/mantto01.png",
+          src: { mantto01 },
           description: "Montaje de Estructura metalica en galpon",
         },
         {
           key: "img59",
-          src: "../public/images/mantto02.png",
+          src: { mantto02 },
           description: "Descarga de estructura metalica",
         },
         {
           key: "img60",
-          src: "../public/images/mantto03.png",
+          src: { mantto03 },
           description: "Vista de estructura metalica montada",
         },
         {
           key: "img61",
-          src: "../public/images/mantto04.png",
+          src: { mantto04 },
           description: "Descarga de material para estructura",
         },
       ],
@@ -36,9 +42,10 @@ export const imgData = {
     {
       id: 9,
       project:
-        'Prefabricacion, instalacion de lineas de interconexion de equipos',
+        "Prefabricacion, instalacion de lineas de interconexion de equipos",
       type: "Mecanico",
-      location: "Proyecto de cogeneracion central, puerto San Lorenzo - Santa Fe",
+      location:
+        "Proyecto de cogeneracion central, puerto San Lorenzo - Santa Fe",
       country: "Argentina",
       client: "DVS Construcciones S. A.",
       owner: "Central Puerto",
