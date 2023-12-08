@@ -119,22 +119,22 @@ export const imgData = {
       images: [
         {
           key: "img45",
-          src: "../src/assets/work/pag12/tdo01.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074758/work/pag12/tdo01_m6p8lk.png",
           description: "Montaje deflectores en tanque",
         },
         {
           key: "img46",
-          src: "../src/assets/work/pag12/tdo02.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074759/work/pag12/tdo02_dpxh1b.png",
           description: "Montaje de seccion de techo del tanque",
         },
         {
           key: "img47",
-          src: "../src/assets/work/pag12/tdo03.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074759/work/pag12/tdo03_czthmq.png",
           description: "Montaje de techo del tanque",
         },
         {
           key: "img48",
-          src: "../src/assets/work/pag12/tdo04.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074760/work/pag12/tdo04_enxc3t.png",
           description: "Vista de tanques terminados",
         },
       ],
@@ -152,22 +152,22 @@ export const imgData = {
       images: [
         {
           key: "img41",
-          src: "../src/assets/work/pag11/ica01.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074756/work/pag11/ica01_irl9gw.png",
           description: "Montaje de 2° anillo del tanque",
         },
         {
           key: "img42",
-          src: "../src/assets/work/pag11/ica02.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074756/work/pag11/ica02_x0vtn4.png",
           description: "Montaje de cuerpo del tanque",
         },
         {
           key: "img43",
-          src: "../src/assets/work/pag11/ica03.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074757/work/pag11/ica03_hj4iqt.png",
           description: "Montaje de techo del tanque",
         },
         {
           key: "img44",
-          src: "../src/assets/work/pag11/ica04.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074757/work/pag11/ica04_uxbkwp.png",
           description: "Montaje del tanque terminado",
         },
       ],
@@ -185,22 +185,22 @@ export const imgData = {
       images: [
         {
           key: "img37",
-          src: "../src/assets/work/pag10/mariadvs01.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074752/work/pag10/mariadvs01_b5pblc.png",
           description: "Montaje de ultimo anillo con sistema hidraulico",
         },
         {
           key: "img38",
-          src: "../src/assets/work/pag10/mariadvs02.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074753/work/pag10/mariadvs02_tjuxnq.png",
           description: "Estructura interna del tanque",
         },
         {
           key: "img39",
-          src: "../src/assets/work/pag10/mariadvs03.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074754/work/pag10/mariadvs03_b3wlnq.png",
           description: "Limpieza abrasiva externa",
         },
         {
           key: "img40",
-          src: "../src/assets/work/pag10/mariadvs04.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074755/work/pag10/mariadvs04_grwjhx.png",
           description: "Vista general tanques",
         },
       ],
@@ -218,87 +218,87 @@ export const imgData = {
       images: [
         {
           key: "img20",
-          src: "../src/assets/work/pag06/ecsa01.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074741/work/pag06/ecsa01_fzeoyu.png",
           description: "Montaje tanques 1425 m3",
         },
         {
           key: "img21",
-          src: "../src/assets/work/pag06/ecsa02.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074742/work/pag06/ecsa02_w9u6y1.png",
           description: "Vista general 3 tanques",
         },
         {
           key: "img22",
-          src: "../src/assets/work/pag06/ecsa03.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074743/work/pag06/ecsa03_ifgxxx.png",
           description: "Vista T-1101A y T1101B",
         },
         {
           key: "img23",
-          src: "../src/assets/work/pag06/ecsa04.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074743/work/pag06/ecsa04_dxvc6f.png",
           description: "T-1101A, T-1101B, T-1401",
         },
         {
           key: "img24",
-          src: "../src/assets/work/pag06/ecsa05.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074744/work/pag06/ecsa05_bgypyz.png",
           description: "Montaje lineas de tuberia enterrada",
         },
         {
           key: "img25",
-          src: "../src/assets/work/pag06/ecsa06.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074744/work/pag06/ecsa06_nxmwp3.png",
           description: "Pruebas Sistema contraincendio sector bombas",
         },
         {
           key: "img26",
-          src: "../src/assets/work/pag06/ecsa07.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074745/work/pag06/ecsa07_m19ksw.png",
           description: "Montaje de lineas sistema contraincendio",
         },
         {
           key: "img27",
-          src: "../src/assets/work/pag06/ecsa08.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074746/work/pag06/ecsa08_rtb1s4.png",
           description: "Vista cubeto T-1101A y T-1101B",
         },
         {
           key: "img28",
-          src: "../src/assets/work/pag06/ecsa09.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074746/work/pag06/ecsa09_ech3lh.png",
           description: "Montaje de fondo de tanque",
         },
         {
           key: "img29",
-          src: "../src/assets/work/pag06/ecsa10.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074747/work/pag06/ecsa10_jvkew8.png",
           description: "Montaje virolas 3° Anillo",
         },
         {
           key: "img30",
-          src: "../src/assets/work/pag06/ecsa11.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074748/work/pag06/ecsa11_csmaqi.png",
           description: "Tanque T-4401 Sistema Contra Incendio terminado",
         },
         {
           key: "img31",
-          src: "../src/assets/work/pag06/ecsa12.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074748/work/pag06/ecsa12_qbsfgg.png",
           description: "Alineado y soldadura de lineas de tuberia",
         },
         {
           key: "img32",
-          src: "../src/assets/work/pag06/ecsa13.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074749/work/pag06/ecsa13_jqkwo2.png",
           description: "Tendido de lineas de tuberia enterrada",
         },
         {
           key: "img33",
-          src: "../src/assets/work/pag06/ecsa14.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074750/work/pag06/ecsa14_r53izi.png",
           description: "Polikenado de tuberia",
         },
         {
           key: "img34",
-          src: "../src/assets/work/pag06/ecsa15.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074751/work/pag06/ecsa15_cdz2a6.png",
           description: "Polikenado de lineas de tuberia",
         },
         {
           key: "img35",
-          src: "../src/assets/work/pag06/ecsa16.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074751/work/pag06/ecsa16_eswazi.png",
           description: "Prefabricacion de tuberia enterrada",
         },
         {
           key: "img36",
-          src: "../src/assets/work/pag06/ecsa17.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074752/work/pag06/ecsa17_tay0hu.png",
           description: "Izaje y enterrado de lineas de tuberia",
         },
       ],
@@ -316,42 +316,42 @@ export const imgData = {
       images: [
         {
           key: "img12",
-          src: "../src/assets/work/pag04/elec01.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074736/work/pag04/elec01_qfjlkk.png",
           description: "Tablero electrico",
         },
         {
           key: "img13",
-          src: "../src/assets/work/pag04/elec02.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074737/work/pag04/elec02_qskihd.png",
           description: "Tablero electrico",
         },
         {
           key: "img14",
-          src: "../src/assets/work/pag04/elec03.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074737/work/pag04/elec03_uam90a.png",
           description: "Conexionado electrico",
         },
         {
           key: "img15",
-          src: "../src/assets/work/pag04/elec04.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074738/work/pag04/elec04_mtaode.png",
           description: "Transformadores electicos",
         },
         {
           key: "img16",
-          src: "../src/assets/work/pag04/elec05.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074739/work/pag04/elec05_xcs95z.png",
           description: "Paneles electricos",
         },
         {
           key: "img17",
-          src: "../src/assets/work/pag04/elec06.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074739/work/pag04/elec06_htuxwx.png",
           description: "Generacion electrica",
         },
         {
           key: "img18",
-          src: "../src/assets/work/pag04/elec07.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074740/work/pag04/elec07_uka2hh.png",
           description: "Conexionado electrico",
         },
         {
           key: "img19",
-          src: "../src/assets/work/pag04/elec08.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074741/work/pag04/elec08_fj47gk.png",
           description: "Paneles electricos",
         },
       ],
@@ -369,27 +369,27 @@ export const imgData = {
       images: [
         {
           key: "img07",
-          src: "../src/assets/work/pag03/Moquegua01.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074733/work/pag03/Moquegua01_c5lrtq.png",
           description: "Montaje de tanques",
         },
         {
           key: "img08",
-          src: "../src/assets/work/pag03/Moquegua02.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074734/work/pag03/Moquegua02_p6iz2a.png",
           description: "Montaje de tanques",
         },
         {
           key: "img09",
-          src: "../src/assets/work/pag03/Moquegua03.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074734/work/pag03/Moquegua03_y2ph9g.png",
           description: "Montaje de tanques",
         },
         {
           key: "img10",
-          src: "../src/assets/work/pag03/Moquegua04.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074735/work/pag03/Moquegua04_ustznx.png",
           description: "Montaje de tanques",
         },
         {
           key: "img11",
-          src: "../src/assets/work/pag03/Moquegua05.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074735/work/pag03/Moquegua05_u8d4xj.png",
           description: "Montaje de tanques",
         },
       ],
@@ -406,17 +406,17 @@ export const imgData = {
       images: [
         {
           key: "img04",
-          src: "../src/assets/work/pag02/Vopak01.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074730/work/pag02/Vopak01_tnjvxp.png",
           description: "Reubicacion de lineas",
         },
         {
           key: "img05",
-          src: "../src/assets/work/pag02/Vopak02.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074731/work/pag02/Vopak02_vrwmrl.png",
           description: "Reubicacion de lineas",
         },
         {
           key: "img06",
-          src: "../src/assets/work/pag02/Pascuales03.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074732/work/pag02/Vopak03_tuoy1n.png",
           description: "Reubicacion de bombas",
         },
       ],
@@ -434,19 +434,19 @@ export const imgData = {
       images: [
         {
           key: "img01",
-          src: "../src/assets/work/pag02/Pascuales01.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074730/work/pag02/Pascuales01_szrxl8.png",
           description:
             "Construccion e instalacion de lineas de diesel y gasolina",
         },
         {
           key: "img02",
-          src: "../src/assets/work/pag02/Pascuales02.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074731/work/pag02/Pascuales02_ovmncf.png",
           description:
             "Construccion e instalacion de lineas de diesel y gasolina",
         },
         {
           key: "img03",
-          src: "../src/assets/work/pag02/Pascuales03.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074730/work/pag02/Pascuales03_ioicey.png",
           description:
             "Construccion e instalacion de lineas de diesel y gasolina",
         },
