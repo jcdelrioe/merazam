@@ -1,8 +1,3 @@
-import mantto01 from "./assets/work/pag15/mantto01.png";
-import mantto02 from "./assets/work/pag15/mantto02.png";
-import mantto03 from "./assets/work/pag15/mantto03.png";
-import mantto04 from "./assets/work/pag15/mantto04.png";
-
 export const imgData = {
   projects: [
     {
@@ -19,22 +14,22 @@ export const imgData = {
       images: [
         {
           key: "img58",
-          src: { mantto01 },
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074766/work/pag15/mantto01_dspcmv.png",
           description: "Montaje de Estructura metalica en galpon",
         },
         {
           key: "img59",
-          src: { mantto02 },
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074767/work/pag15/mantto02_ajtoyk.png",
           description: "Descarga de estructura metalica",
         },
         {
           key: "img60",
-          src: { mantto03 },
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074767/work/pag15/mantto03_m0okly.png",
           description: "Vista de estructura metalica montada",
         },
         {
           key: "img61",
-          src: { mantto04 },
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074768/work/pag15/mantto04_rmjxow.png",
           description: "Descarga de material para estructura",
         },
       ],
@@ -458,4 +453,4 @@ export const imgData = {
       ],
     },
   ],
-};
+}
