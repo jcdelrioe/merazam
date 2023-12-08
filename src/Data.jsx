@@ -48,22 +48,22 @@ export const imgData = {
       images: [
         {
           key: "img54",
-          src: "../src/assets/work/pag14/cogenedvs01.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074763/work/pag14/cogenedvs01_nlavfx.png",
           description: "Montaje de Tuberia y soporteria",
         },
         {
           key: "img55",
-          src: "../src/assets/work/pag14/cogenedvs02.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074764/work/pag14/cogenedvs02_qhrjed.png",
           description: "Montaje de sistema de valvulas en tuberia",
         },
         {
           key: "img56",
-          src: "../src/assets/work/pag14/cogenedvs03.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074765/work/pag14/cogenedvs03_b6tolu.png",
           description: "Prefabricacion y acoplamiento de tuberia",
         },
         {
           key: "img57",
-          src: "../src/assets/work/pag14/cogenedvs04.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074765/work/pag14/cogenedvs04_zu5npm.png",
           description: "Vista general de la planta",
         },
       ],
@@ -81,27 +81,27 @@ export const imgData = {
       images: [
         {
           key: "img49",
-          src: "../src/assets/work/pag13/energy01.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074760/work/pag13/energy01_onk6mi.png",
           description: "Tuberia en Pipe Rack",
         },
         {
           key: "img50",
-          src: "../src/assets/work/pag13/energy02.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074761/work/pag13/energy02_buwtff.png",
           description: "Prefabricacion de tuberia",
         },
         {
           key: "img51",
-          src: "../src/assets/work/pag13/energy03.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074763/work/pag13/energy05_ulsvat.png",
           description: "Prueba Hidrostatica de tuberia",
         },
         {
           key: "img52",
-          src: "../src/assets/work/pag13/energy04.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074762/work/pag13/energy03_kj4iu5.png",
           description: "Montaje de tuberia en pipe rack",
         },
         {
           key: "img53",
-          src: "../src/assets/work/pag13/energy05.png",
+          src: "https://res.cloudinary.com/dkhrcrzx0/image/upload/v1702074762/work/pag13/energy04_lhy1u1.png",
           description: "Soldadura de accesorios de tuberia",
         },
       ],
